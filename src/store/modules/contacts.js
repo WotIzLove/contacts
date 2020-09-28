@@ -45,14 +45,17 @@ export default {
         id: 3,
         fields: [
           {
+            id: 1,
             label: "Имя",
             value: "Лесков Андрей",
           },
           {
+            id: 2,
             label: "Телефон",
             value: "7(428)219-07-72",
           },
           {
+            id: 3,
             label: "Email",
             value: "aelwoodb@limez.wtf",
           },
